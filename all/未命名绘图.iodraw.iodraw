@@ -178,7 +178,7 @@
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-94" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="410" y="60" width="405.93" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-95" value="内向 I" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-94">
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-95" value="外向E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-94">
           <mxGeometry x="174.31486225895316" width="57.30027548209367" height="57.30027548209367" as="geometry" />
         </mxCell>
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-96" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-94">
