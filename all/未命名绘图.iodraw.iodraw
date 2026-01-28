@@ -1,11 +1,17 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="u7FIEa1y_yBOYqKM4G5H">
-    <mxGraphModel dx="1050" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-51" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="180" width="300.83" height="260" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-72" value="内向 I" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="310.0045238095238" y="70" width="57.30027548209367" height="57.30027548209367" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="180" width="620.8299999999999" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-51" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-90">
+          <mxGeometry width="300.83" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-16" value="实感 S" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-51">
           <mxGeometry x="121.76452380952381" width="57.30027548209367" height="57.30027548209367" as="geometry" />
@@ -79,8 +85,8 @@
             <mxPoint x="229.20380952380953" y="109.58677685950414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-52" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="180" width="300.83" height="260" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-52" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-90">
+          <mxGeometry x="320" width="300.83" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-53" value="直觉 N" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-52">
           <mxGeometry x="121.76452380952381" width="57.30027548209367" height="57.30027548209367" as="geometry" />
@@ -153,9 +159,6 @@
             <mxPoint x="157.57761904761904" y="64.46280991735537" as="sourcePoint" />
             <mxPoint x="229.20380952380953" y="109.58677685950414" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-72" value="内向 I" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="291.7645238095238" y="-150" width="57.30027548209367" height="57.30027548209367" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
