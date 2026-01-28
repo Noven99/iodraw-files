@@ -16,12 +16,6 @@
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-22" value="情感 F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-5" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="470" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-7" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="470" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="50" width="460" height="80" as="geometry" />
         </mxCell>
@@ -30,6 +24,15 @@
         </mxCell>
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-2" value="内向 I" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-24">
           <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-25" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="470" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-5" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-25">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-7" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-25">
+          <mxGeometry x="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
