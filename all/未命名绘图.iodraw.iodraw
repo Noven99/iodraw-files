@@ -85,6 +85,81 @@
             <mxPoint x="229.20380952380953" y="109.58677685950414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="310" width="300.83" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-53" value="直觉 N" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-52">
+          <mxGeometry x="121.76452380952381" width="57.30027548209367" height="57.30027548209367" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-54" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-52">
+          <mxGeometry y="109.58677685950414" width="300.83" height="150.41322314049586" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-55" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-54">
+          <mxGeometry width="143.25238095238095" height="150.41322314049586" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-56" value="思考 T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-55">
+          <mxGeometry x="42.97571428571429" width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-55" source="Nahk_RkQ5QpHKfmUWNK3-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257.8542857142857" y="-7.162534435261707" as="sourcePoint" />
+            <mxPoint x="35.81309523809524" y="93.11294765840219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-55" source="Nahk_RkQ5QpHKfmUWNK3-56" target="Nahk_RkQ5QpHKfmUWNK3-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.62619047619047" y="64.46280991735536" as="sourcePoint" />
+            <mxPoint x="42.97571428571429" y="100.2754820936639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-59" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-55">
+          <mxGeometry y="93.11294765840219" width="143.25238095238095" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-60" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-59">
+          <mxGeometry width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-61" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-59">
+          <mxGeometry x="85.95142857142858" width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-62" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-54">
+          <mxGeometry x="157.57761904761904" width="143.25238095238095" height="150.41322314049586" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-63" value="情感 F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-62">
+          <mxGeometry x="42.97571428571429" width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-62" source="Nahk_RkQ5QpHKfmUWNK3-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257.8542857142857" y="-7.162534435261707" as="sourcePoint" />
+            <mxPoint x="35.81309523809524" y="93.11294765840219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-62" source="Nahk_RkQ5QpHKfmUWNK3-63" target="Nahk_RkQ5QpHKfmUWNK3-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.62619047619047" y="64.46280991735536" as="sourcePoint" />
+            <mxPoint x="42.97571428571429" y="100.2754820936639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-66" value="" style="group" vertex="1" connectable="0" parent="Nahk_RkQ5QpHKfmUWNK3-62">
+          <mxGeometry y="93.11294765840219" width="143.25238095238095" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-67" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-66">
+          <mxGeometry width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-68" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-66">
+          <mxGeometry x="85.95142857142858" width="57.30027548209365" height="57.30027548209365" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-52" source="Nahk_RkQ5QpHKfmUWNK3-53" target="Nahk_RkQ5QpHKfmUWNK3-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257.8542857142857" y="102.42424242424242" as="sourcePoint" />
+            <mxPoint x="293.66738095238094" y="66.61157024793388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nahk_RkQ5QpHKfmUWNK3-52" source="Nahk_RkQ5QpHKfmUWNK3-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157.57761904761904" y="64.46280991735537" as="sourcePoint" />
+            <mxPoint x="229.20380952380953" y="109.58677685950414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
