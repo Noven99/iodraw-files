@@ -10,17 +10,23 @@
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-3" value="外向 E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-5" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="210" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-7" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-5" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-11">
+          <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-9" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-7" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-11">
+          <mxGeometry x="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-10" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="210" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-9" value="判断 J" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-12">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-10" value="感知 P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="Nahk_RkQ5QpHKfmUWNK3-12">
+          <mxGeometry x="170" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
