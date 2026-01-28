@@ -43,6 +43,9 @@
         <mxCell id="Nahk_RkQ5QpHKfmUWNK3-21" value="直觉 N" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="370" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Nahk_RkQ5QpHKfmUWNK3-22" value="情感 F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;verticalAlign=middle;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
